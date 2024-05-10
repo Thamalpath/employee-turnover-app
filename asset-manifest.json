@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee-turnover-app/static/css/main.a0964f67.css",
+    "main.js": "/employee-turnover-app/static/js/main.84e3f26d.js",
+    "static/js/453.fb449745.chunk.js": "/employee-turnover-app/static/js/453.fb449745.chunk.js",
+    "index.html": "/employee-turnover-app/index.html",
+    "main.a0964f67.css.map": "/employee-turnover-app/static/css/main.a0964f67.css.map",
+    "main.84e3f26d.js.map": "/employee-turnover-app/static/js/main.84e3f26d.js.map",
+    "453.fb449745.chunk.js.map": "/employee-turnover-app/static/js/453.fb449745.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0964f67.css",
+    "static/js/main.84e3f26d.js"
+  ]
+}
